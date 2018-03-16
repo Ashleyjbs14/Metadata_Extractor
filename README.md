@@ -1,5 +1,5 @@
 # Metadata_Extractor
-#Created this for my dissertation.
+#Created for my dissertation.
 
 #BSc Computer Science.
 
